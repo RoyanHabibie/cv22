@@ -1,6 +1,6 @@
 <?php
 $host = 'localhost';
-$db = 'cv';
+$db = 'cv2';
 $user = 'cv2';
 $pwd = 'cv234';
 
